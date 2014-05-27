@@ -57,7 +57,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ConsoleApplication1\ProgrammingProblems.csproj">
+    <ProjectReference Include="..\ProgrammingProblems\ProgrammingProblems.csproj">
       <Project>{e9d748b0-b135-4f9b-a277-fa072e6712e1}</Project>
       <Name>ProgrammingProblems</Name>
     </ProjectReference>
